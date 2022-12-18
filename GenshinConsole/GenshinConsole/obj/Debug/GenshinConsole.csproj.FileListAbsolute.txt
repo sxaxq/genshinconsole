@@ -1,0 +1,8 @@
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\bin\Debug\GenshinConsole.exe.config
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\bin\Debug\GenshinConsole.exe
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\bin\Debug\GenshinConsole.pdb
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\obj\Debug\GenshinConsole.csproj.AssemblyReference.cache
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\obj\Debug\GenshinConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\obj\Debug\GenshinConsole.csproj.CoreCompileInputs.cache
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\obj\Debug\GenshinConsole.exe
+C:\Users\sxaxq\source\repos\GenshinConsole\GenshinConsole\obj\Debug\GenshinConsole.pdb
